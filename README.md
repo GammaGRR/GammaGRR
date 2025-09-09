@@ -62,11 +62,4 @@
 
 ---
 
-## 📈 Диаграмма навыков
-```mermaid
-pie title Мой стек технологий
-  "Frontend (React/Next.js)" : 35
-  "Backend (Node.js/Java)" : 30
-  "Databases (SQL/NoSQL)" : 15
-  "DevOps & Cloud" : 10
-  "Прочее (AI, Mobile)" : 10
+<p align="center"> <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-36BCF7?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> ```
