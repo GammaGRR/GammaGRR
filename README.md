@@ -2,11 +2,12 @@
   🚀 Welcome to my GitHub 🚀 <br/>
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=FF5733&center=true&vCenter=true&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Lover" />
 </h1>
-<h2 align="center">Hello! My name is GRR.</h2>
+
+<h2 align="center">Привет! 👋 Меня зовут <b>GRR</b></h2>
 <h3 align="center">💻 Full-Stack Разработчик | 🚀 Энтузиаст технологий | 🌱 Вечный ученик</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Зло+пожаловать+в+мой+GitHub!;Я+создаю+проектЫ+и+учу+новые+технологии;Люблю+чистый+код+и+open-source" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Добро+пожаловать+в+мой+GitHub!;Создаю+проекты+и+учу+новые+технологии;Люблю+чистый+код+и+open-source" />
 </p>
 
 ---
@@ -22,49 +23,47 @@
 
 ## 🛠 Навыки и Технологии
 
-### 🔹 Языки программирования
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,php,rust" />
+### 🔹 Языки
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust" />
 </p>
 
 ### 🔹 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,tailwind,sass" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,sass" />
 </p>
 
 ### 🔹 Backend & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,docker,kubernetes,nginx,graphql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,docker,kubernetes,nginx,graphql" />
 </p>
 
 ### 🔹 Базы данных и Cloud
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite,aws,gcp,azure,firebase" />
 </p>
 
 ### 🔹 Инструменты
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,idea,figma,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,figma,postman" />
 </p>
 
 ---
 
-## 📊 Моя активность на GitHub
+## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 📈 Диаграммы навыков
-
-### Мой стек в процентах
+## 📈 Диаграмма навыков
 ```mermaid
 pie title Владею технологиями
   "Frontend (React/Next.js)" : 35
