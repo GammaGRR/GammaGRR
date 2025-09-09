@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <h1 align="center">
-  <p>Welcome to my GitHub</p>
+  <p>Welcome to my GitHub Profile</p>
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=FF5733&center=true&vCenter=true&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Lover" />
 </h1>
 <h1 align="center">
