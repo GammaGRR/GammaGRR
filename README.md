@@ -51,9 +51,11 @@
 
 ## 📊 GitHub Активность
 
+
 <p align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GRR&theme=react-dark&hide_border=true)
+  <img src="https://activity-graph.herokuapp.com/graph?username=GammaGRR&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ---
