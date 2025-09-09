@@ -9,9 +9,6 @@
 <h3 align="center">
   💻 Full-Stack Разработчик | 🚀 Энтузиаст технологий | 🌱 Вечный ученик
 </h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=FF5733&center=true&vCenter=true&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Lover" />
-</p>
 
 ---
 
