@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRR&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Activity Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GRR&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Contributions Graph" />
 </p>
 
 
