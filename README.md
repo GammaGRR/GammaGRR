@@ -1,9 +1,8 @@
 <!-- ========================= WELCOME ========================= -->
-<h1 align="center">Hello! My name is GRR.
+#Hello! My name is GRR.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF5733&center=true&vCenter=true&lines=Full-Stack;Cyberpunk;Open+Source" />
 </p>
-</h1>
 
 ## 👨‍💻 About me
 
