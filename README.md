@@ -53,9 +53,8 @@
 
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=GammaGRR&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
-
 
 
 ---
