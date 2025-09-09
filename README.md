@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GRR&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Activity Stats" />
 </p>
 
 
