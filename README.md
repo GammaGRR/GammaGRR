@@ -5,7 +5,6 @@
 </p>
 </h1>
 
----
 ## 👨‍💻 About me
 
 <p align="center">
