@@ -52,9 +52,7 @@
 ## 📊 GitHub Активность
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GRR&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="GitHub Contributions Graph" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
