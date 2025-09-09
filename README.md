@@ -11,7 +11,6 @@
 
 ---
 
-<!-- ========================= ABOUT ME ========================= -->
 ## 👨‍💻 Обо мне
 - 🔭 Работаю над **веб- и мобильными проектами**  
 - 🌱 Осваиваю **Next.js, DevOps, AI-технологии**  
@@ -21,7 +20,6 @@
 
 ---
 
-<!-- ========================= SKILLS ========================= -->
 ## 🛠 Мои навыки
 
 ### 💻 Языки
@@ -51,28 +49,19 @@
 
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=vue" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-<!-- ========================= SKILLS CHART ========================= -->
 ## 📈 Диаграмма навыков
 ```mermaid
 pie title Мой стек технологий
@@ -81,8 +70,3 @@ pie title Мой стек технологий
   "Databases (SQL/NoSQL)" : 15
   "DevOps & Cloud" : 10
   "Прочее (AI, Mobile)" : 10
-
-
-<!-- ========================= GITHUB SNAKE ========================= -->
-🐍 GitHub-змейка
-<p align="center"> <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif" alt="GitHub Snake" /> </p> ```
