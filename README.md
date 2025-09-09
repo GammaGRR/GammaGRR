@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About me
 
-<p align="center">
+<p>
   Hola, Amigos. <strong>GRR</strong> на связи.
 </p>
 
