@@ -7,31 +7,31 @@
 ## 👨‍💻 About me
 
 <p>
-  Hola, Amigos. <strong>GRR</strong> на связи.
+  Hola, Amigos. <strong>GRR</strong> here.
 </p>
 
 <p>
-  Full-Stack разработчик ПО.
+  Full-Stack Software Developer.
 </p>
 
 <p>
-  С 2021 года ворвался в мир программирования, как хакер в корпоративную сеть.
+  Since 2021, I’ve been diving into the world of programming like a hacker breaking into a corporate network.
 </p>
 
 <p>
-  Не ищу лёгких путей — разруливаю хаос, где только придётся.
+  I don’t take the easy path — I tackle chaos wherever it appears.
 </p>
 
 <p>
-  В мире технологий ищу свободу и стиль, и немного хаоса тоже.
+  In the tech world, I seek freedom and style, and a bit of chaos too.
 </p>
 
 <p>
-  Я не просто пишу код — <strong>делаю его живым</strong>.
+  I don’t just write code — <strong>I bring it to life</strong>.
 </p>
 
 <p>
-  Кто сказал, что разработчик не может быть рок-звездой? 🎸
+  Who said a developer can’t be a rock star? 🎸
 </p>
 
 
