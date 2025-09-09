@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=FF5733&center=true&vCenter=true&lines=Full-Stack+Developer;Open-Source+Enthusiast;Cyberpunk" />
 </h1>
 <h1 align="center">
-  👋 Привет, я <p style="">GRR</p>!
+  👋 Привет, я GRR!
 </h1>
 <h3 align="center">
   💻 Full-Stack Разработчик | 🚀 Энтузиаст технологий | 🌱 Вечный ученик
