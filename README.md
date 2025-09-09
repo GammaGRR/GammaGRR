@@ -1,7 +1,7 @@
 <!-- ========================= WELCOME ========================= -->
-<h1 align="center">👋 Привет, я GRR</h1>
+<h1 align="center">Hello, my name is GRR</h1>
 <h3 align="center">
-  💻 Full-Stack Developer | 🚀 Технологический энтузиаст | 🌱 Постоянно учусь
+  💻 Full-Stack Developer | 🚀 Cyberpunk | 🌱 $const = learner"
 </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF5733&center=true&vCenter=true&lines=Создаю+чистый+код;Люблю+open-source;Исследую+новые+технологии" />
