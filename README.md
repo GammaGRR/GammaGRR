@@ -49,12 +49,12 @@
 
 ---
 
-## 📊 GitHub Статистика
-
+## 📊 GitHub Активность
 
 <p align="center">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GammaGRR&theme=react-dark&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
 </p>
+
 
 ---
 
