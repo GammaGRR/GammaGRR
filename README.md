@@ -65,15 +65,15 @@
 
 ## 📊 My GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyo-night)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyonight)
 
 ## My Top Language's
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyo-night)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyonight)
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night" width="85%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyonight" width="85%">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
