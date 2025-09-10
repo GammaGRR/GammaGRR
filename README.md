@@ -69,11 +69,11 @@
 
 ## 📊 My GitHub stats & Activity
 
-![GammaGRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
+![GammaGRR's GitHub stats](https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyodark&hide_border=true&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyodar&hide_border=true&bg_color=00000000)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-dark&hide_border=true&area=true)
 
 ** Rock up! 🤘
 
