@@ -1,20 +1,57 @@
-### 🎯 Технологический стек
+<h1>Hola, Amigo's.</br>GRR in touch</h1></br>
+<p>Who says a programmer can't be a rock star?</p>
 
 <details>
-<summary><b>Посмотреть мой стек технологий</b></summary>
-<br>
+<summary><b>Find out about me and my stack.</b></summary>
+</br>
 
-**Backend:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+# Привет, я <Ваше Имя>! 👋
 
-**Frontend:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&animation=fadeIn&fontAlignY=35)
 
-**Инструменты:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 Обо мне
+- 💻 Fullstack разработчик / Data Scientist / <ваша специализация>  
+- 🌱 Изучаю **AI, DevOps и Open Source**  
+- 🎯 Цель: создавать красивые и полезные проекты  
+- ⚡ Факт: <добавьте что-то интересное о себе>  
+
+---
+
+## 🛠 Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+
+## 📊 GitHub Статистика
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyonight)
+
+
+## 🏆 Достижения GitHub
+
+![trophy](https://github-profile-trophy.vercel.app/?username=GammaGRR&theme=onedark&no-frame=true&row=1&column=6)
+
+
+## 📈 Активность
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night)
+
+
+## 🌐 Связаться со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/<ВАШ_TG>)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<ССЫЛКА>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](<ССЫЛКА>)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<ВАШ_EMAIL>)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+
 </details>
