@@ -1,13 +1,11 @@
 <h1>Hola, Amigo's 👋 GRR in touch</h1>
-<p>Who says a programmer can't be a rock star?</p></br>
+<p>Who says a programmer can't be a rock star?🎸</p></br>
 
 <details>
 <summary><b>Find out about me and my stack.</b></summary>
 </br>
 
-# Привет, я <Ваше Имя>! 👋
-
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=40)
 
 ## 🚀 Обо мне
 - 💻 Fullstack разработчик / Data Scientist / <ваша специализация>  
