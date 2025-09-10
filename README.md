@@ -69,7 +69,7 @@
 
 ## My Top Language's
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyo-night)
 
 ## 📈 Activity
 
