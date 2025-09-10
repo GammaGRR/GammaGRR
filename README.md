@@ -35,7 +35,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-     <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/phpmyadmin_92932.png" width="50" height="50"/>
+     <img src="https://www.phpmyadmin.net/static/images/logo.png" width="50" height="50"/>
     <h3>What i am learning now</h3>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
