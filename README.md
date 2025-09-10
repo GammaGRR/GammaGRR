@@ -5,15 +5,14 @@
 <summary><b>Find out about me and my stack.</b></summary>
 </br>
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=40)
 
-## 🚀 Обо мне
+## 🚀 About me
 - 💻 Fullstack разработчик / Data Scientist / <ваша специализация>  
 - 🌱 Изучаю **AI, DevOps и Open Source**  
 - 🎯 Цель: создавать красивые и полезные проекты  
 - ⚡ Факт: <добавьте что-то интересное о себе>  
 
----
 
 ## 🛠 Технологии и инструменты
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
