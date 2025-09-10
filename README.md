@@ -5,7 +5,7 @@
 <summary><b>Find out about me and my stack.</b></summary>
 </br>
   
-![MatrixHeader](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=280&section=header&text=GRR_SYSTEMS&fontSize=70&animation=scale&fontColor=00ff00&fontAlignY=40&desc=ENTER_THE_MATRIX%20%2F%2F%20CODE_HACKER&descSize=18&descAlignY=72&descColor=ffffff&stroke=00ff00&strokeWidth=1)
+![TechHeader](https://capsule-render.vercel.app/api?type=waving&color=0:ff7700,50:000000,100:ff7700&height=300&section=header&text=GAMMA_CORP&fontSize=75&animation=scale&fontColor=ffffff&fontAlignY=38&desc=CYBERPUNK%20DEVELOPER%20%2F%2F%20PROTOCOL_ACTIVATED&descSize=16&descAlignY=70&descColor=ff7700&stroke=ffffff&strokeWidth=1)
 
 ## 🚀 About me
 
