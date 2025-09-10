@@ -37,7 +37,7 @@
 
 ## 📈 Активность
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night" width="80%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night" width="85%">
 
 ## 🌐 Связаться со мной
 
