@@ -5,7 +5,7 @@
 <summary><b>Find out about me and my stack.</b></summary>
 </br>
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=40)
 
 ## 🚀 About me
  
