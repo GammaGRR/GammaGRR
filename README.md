@@ -15,13 +15,14 @@
 
 
 ## 🛠 Технологии и инструменты
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=flat-square&label=)
+![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=flat-square&label=)
+![React](https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=flat-square&label=)
+![Node.js](https://img.shields.io/badge/-339933?logo=node.js&logoColor=white&style=flat-square&label=)
+![Docker](https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white&style=flat-square&label=)
+![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=flat-square&label=)
+![Linux](https://img.shields.io/badge/-FCC624?logo=linux&logoColor=black&style=flat-square&label=)
+
 
 
 ## 📊 GitHub Статистика
