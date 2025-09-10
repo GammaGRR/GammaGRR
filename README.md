@@ -15,13 +15,15 @@
 
 
 ## 🛠 Технологии и инструменты
-![Python](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white&style=flat-square&label=)
-![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=flat-square&label=)
-![React](https://img.shields.io/badge/-61DAFB?logo=react&logoColor=black&style=flat-square&label=)
-![Node.js](https://img.shields.io/badge/-339933?logo=node.js&logoColor=white&style=flat-square&label=)
-![Docker](https://img.shields.io/badge/-2496ED?logo=docker&logoColor=white&style=flat-square&label=)
-![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=white&style=flat-square&label=)
-![Linux](https://img.shields.io/badge/-FCC624?logo=linux&logoColor=black&style=flat-square&label=)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"/>
+</p>
 
 
 
