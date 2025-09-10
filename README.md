@@ -12,38 +12,47 @@
 
 <section>
   <h2>Technology and tool's</h2>
-    <h3>Language's</h3>
-      <p>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/php-original.svg" width="100" height="100"/>
-      </p>
+    <h3>Programming language</h3>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/python-original.svg" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+    <h3>Frontend</h3>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
+    <h3>Backend</h3>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50"/>
+    <h3>Data base</h3>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+    <h3>Tool's</h3>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+    <h3>What i am learning now</h3>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
 </section>
 
 
 
-## 📊 GitHub Статистика
+## 📊 My GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GammaGRR&show_icons=true&theme=tokyonight)
+
+## My Top Language's
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyonight)
 
-
-## 🏆 Достижения GitHub
-
-![trophy](https://github-profile-trophy.vercel.app/?username=GammaGRR&theme=onedark&no-frame=true&row=1&column=6)
-
-
-## 📈 Активность
+## 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night" width="85%">
-
-## 🌐 Связаться со мной
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/<ВАШ_TG>)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<ССЫЛКА>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](<ССЫЛКА>)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<ВАШ_EMAIL>)
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
