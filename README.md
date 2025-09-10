@@ -4,8 +4,8 @@
 <details>
 <summary><b>Find out about me and my stack.</b></summary>
 </br>
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:a288e3,100:6ce5f2&height=250&section=header&text=Welcome+To+My+World&fontSize=60&animation=fadeIn&fontAlignY=40&desc=新宿・シブヤ・シャッタードン%20//%20Full-Stack%20Dev&descAlignY=70&descSize=15)
+  
+![CyberHeader](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:ff00ff&height=300&section=header&text=CYBERGRR&fontSize=80&animation=scale&fontColor=00ffff&fontAlignY=38&desc=NEON_TOKYO%20%2F%2F%20FULL-STACK%20SYSTEMS&descSize=20&descAlignY=70&descColor=ff00ff&stroke=00ffff&strokeWidth=2)
 
 ## 🚀 About me
 
