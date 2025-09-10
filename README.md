@@ -5,7 +5,7 @@
 <summary><b>Find out about me and my stack.</b></summary>
 </br>
   
-![NeonHeader](https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:000000&height=290&section=header&text=welcome.exe&fontSize=80&animation=scale&fontColor=ffffff&fontAlignY=40&desc=RUNNING_SYSTEMS%20%2F%2F%20NEON_TOKYO&descSize=16&descAlignY=72&descColor=9d00ff&stroke=ffffff&strokeWidth=2)
+![NeonHeader](https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:000000&height=290&section=header&text=welcome.exe&fontSize=80&animation=blink&fontColor=ffffff&fontAlignY=40&desc=RUNNING_SYSTEMS%20%2F%2F%20NEON_TOKYO&descSize=16&descAlignY=72&descColor=9d00ff&stroke=ffffff&strokeWidth=2)
 
 ## 🚀 About me
 
