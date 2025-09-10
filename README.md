@@ -8,7 +8,7 @@
 ![NeonHeader](https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:000000&height=290&section=header&text=welcome.exe&fontSize=80&animation=blink&fontColor=ffffff&fontAlignY=40&desc=RUNNING_SYSTEMS%20%2F%2F%20NEON_TOKYO&descSize=16&descAlignY=72&descColor=9d00ff&stroke=ffffff&strokeWidth=2)
 
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/cyberpunk-retro-futuristic-poster-vector-illustration_60438-2406.jpg" width="1300" align="right" style="margin-left: 20px;">
+  <img src="https://img.freepik.com/free-vector/cyberpunk-retro-futuristic-poster-vector-illustration_60438-2406.jpg" width="250" height="1300" align="right" style="margin-left: 20px;">
 </div>
 
 ## 🚀 About me
