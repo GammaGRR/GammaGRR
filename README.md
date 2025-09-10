@@ -73,7 +73,7 @@
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyonight" width="85%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night" width="85%">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
