@@ -20,13 +20,13 @@
     <h3>Frontend</h3>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/> 
-     <img src="https://img.icons8.com/?size=100&id=qfQaIYKX23qY&format=png&color=000000" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
     <h3>Backend</h3>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> 
      <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" width="50" height="50" style="background-color: #fff; border-radius: 5px; padding: 5px;"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" style="background-color: #FF2D20; border-radius: 5px; padding: 5px;"/>
+     <img src="https://img.icons8.com/?size=100&id=qfQaIYKX23qY&format=png&color=000000" width="50" height="50"/>
     <h3>Data base</h3>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> 
