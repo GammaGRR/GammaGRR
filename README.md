@@ -77,6 +77,6 @@
 
 ** Rock up! 🤘
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:000000&height=120&section=footer&text=SESSION_END&fontSize=30&animation=blink&fontColor=ffffff&desc=PROTOCOL_COMPLETE%20%2F%2F%20GRR_SYSTEMS&descSize=12&descColor=9d00ff&stroke=ffffff&strokeWidth=1)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9d00ff,100:000000&height=160&section=footer&text=SESSION_END&fontSize=30&animation=blink&fontColor=ffffff&desc=PROTOCOL_COMPLETE%0AGRR_SYSTEMS&descSize=12&descColor=9d00ff&stroke=ffffff&strokeWidth=1&descAlignY=78)
 
 </details>
