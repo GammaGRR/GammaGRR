@@ -5,7 +5,7 @@
 <summary><b>Find out about me and my stack.</b></summary>
 </br>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:a288e3,100:6ce5f2&height=250&section=header&text=Welcome+To+My+World&fontSize=60&animation=fadeIn&fontAlignY=40&desc=新宿・シブヤ・シャッタードン // Full-Stack+Dev&descAlignY=70&descSize=15)
 
 ## 🚀 About me
 
