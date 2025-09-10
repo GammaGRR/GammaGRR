@@ -8,22 +8,17 @@
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=40)
 
 ## 🚀 About me
-- 💻 Fullstack разработчик / Data Scientist / <ваша специализация>  
-- 🌱 Изучаю **AI, DevOps и Open Source**  
-- 🎯 Цель: создавать красивые и полезные проекты  
-- ⚡ Факт: <добавьте что-то интересное о себе>  
+ 
 
-
-## 🛠 Технологии и инструменты
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100" height="100"/>
-</p>
+<section>
+  <h2>Technology and tool's</h2>
+    <h3>Language's</h3>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100" height="100"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100"/>
+      </p>
+</section>
 
 
 
