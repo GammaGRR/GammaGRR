@@ -9,8 +9,8 @@
 
 ## 🚀 About me
 
-> I exist in just two states:
-> It's either my mistake, or it's all on YOU.
+> I exist in just two states:</br>
+> It's either my mistake, or it's all on YOU.</br>
 > I wake up to the daylight with a sense that you will not be near.
 
 <section>
