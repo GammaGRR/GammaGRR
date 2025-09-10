@@ -1,4 +1,4 @@
-<h1>Hola, Amigo's. GRR in touch</h1>
+<h1>Hola, Amigo's 👋 GRR in touch</h1>
 <p>Who says a programmer can't be a rock star?</p></br>
 
 <details>
