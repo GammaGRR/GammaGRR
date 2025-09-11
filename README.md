@@ -73,7 +73,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GammaGRR&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GammaGRR&theme=tokyo-night&hide_border=true&area=true" width="85%">
 
 Rock up! 🤘
 
