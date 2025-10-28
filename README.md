@@ -1,5 +1,4 @@
 <h1>¡Hola, Amigos! 👋 GRR in touch</h1>
-<p>Who says a programmer can't be a rock star?🎸</p></br>
 
 <details>
 <summary><b>Find out about me and my stack.</b></summary>
